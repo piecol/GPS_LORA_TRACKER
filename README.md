@@ -1,2 +1,10 @@
 # GPS_LORA_TRACKER
-gps-lora transciever
+
+Install the Heltec board on the Arduino IDE according to the "Board manager" guidelines available here:
+https://docs.heltec.org/en/node/cubecell/quick_start.html
+
+Quick link to the .json file:
+https://github.com/HelTecAutomation/CubeCell-Arduino/releases/download/V1.4.0/package_CubeCell_index.json
+
+Once installed, you'll be ready to properly compile and upload code for this PSoC.
+
