@@ -8,3 +8,8 @@ https://github.com/HelTecAutomation/CubeCell-Arduino/releases/download/V1.4.0/pa
 
 Once installed, you'll be ready to properly compile and upload code for this PSoC.
 
+By uploading the firmware GPS_GNSS_UART.ino, you'll be able to test the GPS unit with the GNSS Toolkit3 software.
+![GNSS_Toolkit](/Pics/GNSS_Toolkit.png)
+
+
+
