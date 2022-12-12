@@ -12,5 +12,9 @@ By uploading the Arduino sketch [GPS_GNSS_Toolkit_UART.ino](TESTS/GPS_GNSS_Toolk
 ![GNSS_Toolkit](/Pics/GNSS_Toolkit.png)
 
 
+The sketch XYZ will allow the prototype to trasnmit coordinates via LoRa to the gateway.
+When compiling, please ude the following settings:
+![Board_details](Pics/Board_details_LoRa_GPS.png)
+
 
 
