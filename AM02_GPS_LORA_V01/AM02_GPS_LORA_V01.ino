@@ -1,6 +1,14 @@
 /* The example is for CubeCell_GPS,
  * GPS works only before lorawan uplink, the board current is about 45uA when in lowpower mode.
+ 
+ EDIT:
+ - works with 1.3.0 CubeCell dev framework
+ 
+ - locate C:\Users\__YOUR_USER_NAME___\AppData\Local\Arduino15\packages\CubeCell\hardware\CubeCell\1.3.0\libraries\OnBoardGPS\src\GPS_Air530Z.h
+ - edit line 10 by replacing the powerCtl pin GPIO14 with GPIO11
+  e.g. -> Air530ZClass(uint8_t powerCtl=GPIO11,uint8_t modePin=GPIO11); \\ this is because on my custom board the Vext is mapped to GPIO11
  */
+
 #include "LoRaWan_APP.h"
 #include "Arduino.h"
 #include "GPS_Air530Z.h" // WARNING!, YOU EDITED THIS FILE (pwrctl on GPIO11, was IO14)
