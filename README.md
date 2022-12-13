@@ -21,8 +21,9 @@ TX and RX are the transmission lines, RTS and DTR are used to automatically set 
 
 ## GNSS Toolkit: a tool to test the Air530z module
 
-By uploading the Arduino sketch [GPS_GNSS_Toolkit_UART.ino](TESTS/GPS_GNSS_Toolkit_UART.ino), you'll be able to communicate with the GPS unit via the GNSS Toolkit3 software.
+By uploading the Arduino sketch [GPS_GNSS_Toolkit_UART.ino](TESTS/GPS_GNSS_Toolkit_UART.ino), you'll be able to communicate with the GPS unit via the GNSS Toolkit3 software. The software is provided as a .zip file in this repository. Please be aware that the original language is chinese, but can the GUI can be viewed in english.
 ![GNSS_Toolkit](/Pics/GNSS_Toolkit.png)
+![GNSS_Toolkit](/Pics/GNSS_Toolkit_language.png)
 
 ## LoRaWAN communication of geographical coordinates
 
