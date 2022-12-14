@@ -31,9 +31,10 @@ The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allo
 Folder structure:
 
 AM02_GPS_LORA_V01
-├── AM02_GPS_LORA_V01.ino   # this is the main sketch
-├── readbattery.h           # header file with functions to read battery voltage
-└── TTN.h                   # header file containing all the TTN related objects (keys, duty cycle etc)
+    .
+    ├── AM02_GPS_LORA_V01.ino   # this is the main sketch
+    ├── readbattery.h           # header file with functions to read battery voltage
+    └── TTN.h                   # header file containing all the TTN related objects (keys, duty cycle etc)
 
   
 https://github.com/piecol/GPS_LORA_TRACKER/blob/8f8fe18ed2a30a6c96698fc1f8999d2fb00c988e/AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino#L12-L16
