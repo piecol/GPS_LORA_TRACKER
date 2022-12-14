@@ -34,6 +34,7 @@ The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allo
 When compiling, please use the following settings:
 ![Board_details](Pics/Board_details_LoRa_GPS.png)
 
+
 ### AM02_GPS_LORA_V01 directory files
 
     .
@@ -47,7 +48,9 @@ https://github.com/piecol/GPS_LORA_TRACKER/blob/8f8fe18ed2a30a6c96698fc1f8999d2f
 Please pay attention to: 
 https://github.com/piecol/GPS_LORA_TRACKER/blob/8f8fe18ed2a30a6c96698fc1f8999d2fb00c988e/AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino#L7-L9
 
+
 ### GNSS Toolkit: a tool to test the Air530z module
+
 
 By uploading the Arduino sketch [GPS_GNSS_Toolkit_UART.ino](TESTS/GPS_GNSS_Toolkit_UART.ino), you'll be able to communicate with the GPS unit via the GNSS Toolkit3 software. The software is provided as a .zip file in this repository. Please be aware that the original language is chinese, but can the GUI can be viewed in english.
 ![GNSS_Toolkit](/Pics/GNSS_Toolkit.png)
