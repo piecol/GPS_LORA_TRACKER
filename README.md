@@ -30,6 +30,8 @@ Use the USB serial bridge (CP2102) and the 6 pin adapter to program the board. P
 TX and RX are the transmission lines, RTS and DTR are used to automatically set the lora chip AM02 in boot mode, therefore ready to receive new firmware.
 
 ![UART](/Pics/UART.png)
+
+
 The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allows the prototype to transmit coordinates via LoRa to the gateway.
 When compiling, please use the following settings:
 ![Board_details](Pics/Board_details_LoRa_GPS.png)
