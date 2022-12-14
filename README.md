@@ -30,6 +30,19 @@ By uploading the Arduino sketch [GPS_GNSS_Toolkit_UART.ino](TESTS/GPS_GNSS_Toolk
 The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allows the prototype to transmit coordinates via LoRa to the gateway.
 Folder structure:
 
+### A typical top-level directory layout
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
+> Use short lowercase names at least for the top-level files and folders except
+> `LICENSE`, `README.md`
 AM02_GPS_LORA_V01
     .
     ├── AM02_GPS_LORA_V01.ino   # this is the main sketch
