@@ -41,6 +41,9 @@ Folder structure:
 The first few lines of the sketch file are meant to load dependences:  
 https://github.com/piecol/GPS_LORA_TRACKER/blob/8f8fe18ed2a30a6c96698fc1f8999d2fb00c988e/AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino#L12-L16
 
+Please pay attention to: 
+https://github.com/piecol/GPS_LORA_TRACKER/blob/8f8fe18ed2a30a6c96698fc1f8999d2fb00c988e/AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino#L7-L9
+
 When compiling, please use the following settings:
 ![Board_details](Pics/Board_details_LoRa_GPS.png)
 
