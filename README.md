@@ -41,7 +41,7 @@ The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allo
 When compiling, please use the following settings:
 ![Board_details](Pics/Board_details_LoRa_GPS.png)
 
-
+##ARDUINO
 ### AM02_GPS_LORA_V01 directory files
 
     .
