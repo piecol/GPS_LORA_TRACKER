@@ -31,6 +31,11 @@ TX and RX are the transmission lines, RTS and DTR are used to automatically set 
 
 ![UART](/Pics/UART.png)
 
+### Interactive bill of material (BOM)
+
+Download and open in the browser the file in the "Hardware" folder, you will be prompted with and interactive PCB showing nets and components. Move around the mouse and click on any net to highlight it and understan the routing.
+
+![BOM](/Pics/iBom.png)
 
 The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allows the prototype to transmit coordinates via LoRa to the gateway.
 When compiling, please use the following settings:
