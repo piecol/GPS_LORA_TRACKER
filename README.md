@@ -37,11 +37,12 @@ Download and open in the browser the file in the "Hardware" folder, you will be 
 
 ![BOM](/Pics/iBom.png)
 
+##ARDUINO
+
 The sketch [AM02_GPS_LORA_V01.ino](AM02_GPS_LORA_V01/AM02_GPS_LORA_V01.ino) allows the prototype to transmit coordinates via LoRa to the gateway.
 When compiling, please use the following settings:
 ![Board_details](Pics/Board_details_LoRa_GPS.png)
 
-##ARDUINO
 ### AM02_GPS_LORA_V01 directory files
 
     .
