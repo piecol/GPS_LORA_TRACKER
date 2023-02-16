@@ -33,7 +33,7 @@ TX and RX are the transmission lines, RTS and DTR are used to automatically set 
 
 ### Interactive bill of material (BOM)
 
-Download and open in the browser the file in the "Hardware" folder, you will be prompted with and interactive PCB showing nets and components. Move around the mouse and click on any net to highlight it and understan the routing.
+Download and open in the browser the file "PCB_LoRa_GPS_tracker_2_rev0.html" in the "Hardware" folder, you will be prompted with and interactive PCB showing nets and components. Move around the mouse and click on any net to highlight it and understan the routing.
 
 ![BOM](/Pics/iBom.png)
 
